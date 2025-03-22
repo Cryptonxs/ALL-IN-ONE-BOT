@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "MTA2NDI2NjYwMjk4OTc2MDYyMg.G9SrL2.RqMXQOpma6Ymfrpkfeuq0B5GPK0EUgAy3I7LAc",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://spiritairlines:spiritairlines@cluster0.wqeirex.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "utility": true,
         "other": true,
